@@ -1,1 +1,1 @@
-hello git from ubuntu
+hello this is day 2
